@@ -26,4 +26,4 @@ In this project, you'll learn how to create visualizations from a large dataset 
 - Experiment with different types of graphs like bar charts, pie charts, line graphs, etc.
 
 ### **Project Completion Time**
-- Approximately 1 hour, depending on the complexity of the visualizations.
+- Approximately 1 hour, depending on the complexity of the visualizations and how big the dataset is.
