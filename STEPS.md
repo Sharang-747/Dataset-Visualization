@@ -7,7 +7,7 @@ In this project, you'll learn how to create visualizations from a large dataset 
 - Click on each file and the select "raw" with Ctrl+S or "download icon" to save both files onto your computer.
 
 ### **Step #2: Store the Dataset in Amazon S3**
-- Open the Amazon S3 console and click "Create Bucket."
+- Open the Amazon S3 console and click "Create Bucket".
 - Name the bucket (e.g., "sharang-amazon-project") you can name it anything you like "but name the s3 bucket using lowercase letters" and keep the settings as default.
 - Update the "manifest.json" and then add the bucket name where it is mentioned "bucket-name".
 - Now upload the .CSV file and the "manifest.json" file into the bucket.
