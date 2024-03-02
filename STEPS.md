@@ -1,4 +1,4 @@
-# **A project using AWS Services Amazon S3 and Quicksight**
+# **A project using AWS Services Amazon S3 and Quicksight.**
 
 In this project, you'll learn how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. We'll be working with a dataset of Top 50 best selling books best-selling products on Amazon.com.
 
