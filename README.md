@@ -1,2 +1,6 @@
 # Dataset Visualization using AWS S3-Quicksight
-- In this project you will learn how to use aws services and do dataset visualization using S3 & Quicksight AWS services.
+
+- Established an S3 bucket for secure data storage.
+- Created interactive visualizations of diverse datasets using various chart types.
+- Utilized these visualizations to identify patterns, derive insights, and optimize data utilization.
+
