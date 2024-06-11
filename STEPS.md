@@ -1,6 +1,6 @@
 # **A project using AWS Services Amazon S3 and Quicksight**
 
-In this project, you'll learn how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. We'll be working with a dataset of Top 50 best selling books best-selling products on Amazon.com.
+In this project, you'll learn how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. We'll be working with a dataset of Top 50 best selling on Amazon.com.
 
 ### **Step #1: Download the Dataset**
 - Navigate to [Dataset Visualization using AWS S3-Quicksight](https://github.com/Sharang-747/Dataset-Visualization) to download the "Amazon Bestseller Dataset" CSV file and the "manifest.json" file.
